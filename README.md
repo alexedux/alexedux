@@ -9,7 +9,7 @@
 
 ## Tecnologias que uso no dia a dia.
 
-<div style = "display: inline_block"><br/><img aling = "center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img aling = "center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" /> 
+<div style = "display: inline_block"><br/><img aling = "center" alt="html5" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img aling = "center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
 
 
 ## Email para contato.
