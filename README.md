@@ -31,7 +31,3 @@ Sou Engenheiro da Computação especialista em Engenharia e Análise de Dados. A
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
-
-## 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexedux&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
